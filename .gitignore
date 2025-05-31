@@ -9,4 +9,5 @@
 # MacOS files
 **/.DS_Store
 # Other files
+.idea/
 *.iml
